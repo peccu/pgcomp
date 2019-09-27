@@ -1,0 +1,12 @@
+{
+  "watch": {
+    "test": "lib/**/*.{js,t}"
+  },
+  "scripts": {
+    "test": "node run.js",
+    "watch": "npm-watch"
+  },
+  "devDependencies": {
+    "npm-watch": "^0.6.0"
+  }
+}
